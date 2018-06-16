@@ -1,0 +1,7 @@
+/build
+/project.egg-info
+/fonts
+__pycache__
+/setup.py
+/*.bak
+
